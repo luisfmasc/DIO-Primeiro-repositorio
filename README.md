@@ -2,7 +2,7 @@
 Primeiro repositório para o desafio da Dio
 
 Interações com arquivo com extenção .md  
-Interessantes tipo de marcação. Pra quem estava costumado com html Exam modelo bem mais simples. 
+Interessante este tipo de marcação, para quem estava costumado com HTML este modelo é bem mais simples. 
 Abaixo apenas uma lista pra entender como funciona:
 
 ## Lista não ordenada
